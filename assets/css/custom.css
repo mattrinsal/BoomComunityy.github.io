@@ -1,0 +1,16 @@
+/*
+Custom Css
+*/
+.password-field {
+    position: relative;
+  }
+
+  .password-toggle {
+    position: absolute;
+    top: 65%;
+    right: 35px;
+    transform: translateY(-65%);
+    cursor: pointer;   
+
+  }
+
